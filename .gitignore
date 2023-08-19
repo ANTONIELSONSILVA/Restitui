@@ -1,0 +1,9 @@
+/dist
+/build
+/Antigos
+/Arquivos/Consultas/*
+/Arquivos/Final/*
+/Arquivos/Listas/Consolidado.csv
+/__pycache__
+/.vscode
+teste.py
